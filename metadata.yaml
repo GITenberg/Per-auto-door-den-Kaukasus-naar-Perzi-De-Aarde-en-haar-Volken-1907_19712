@@ -1,0 +1,32 @@
+_repo: Per-auto-door-den-Kaukasus-naar-Perzi-De-Aarde-en-haar-Volken-1907_19712
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anet, Claude
+    alias: Schopfer, Jean
+    birthdate: 1868
+    deathdate: 1931
+    gutenberg_agent_id: '8829'
+    url: http://www.gutenberg.org/2009/agents/8829
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2006-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19712'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Caucasus -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'Iran -- Description and travel'
+title: 'Per auto door den Kaukasus naar Perzië
+
+  De Aarde en haar Volken, 1907'
+url: http://www.gutenberg.org/ebooks/19712
